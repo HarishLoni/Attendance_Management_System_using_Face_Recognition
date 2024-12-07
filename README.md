@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 Set Up the Database:
 Install MySQL and create a database.
-Update database credentials in the project files (host, user, password, db).
+Update database credentials in the project files (host, user, password, db). Ensure the database tables include the headers: ENROLLMENT, NAME, DATE, TIME.
 
 Run the Application:
 python main_Run.py
